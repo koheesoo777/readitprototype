@@ -1,2 +1,2 @@
 # readitprototype
-Heesoo Ko's readit app prototype
+Heesoo Ko's Readit App Prototype
